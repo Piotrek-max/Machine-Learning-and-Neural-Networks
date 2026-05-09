@@ -1,7 +1,10 @@
 [project]
 name = "machine-learning-and-neural-networks"
 version = "0.1.0"
-description = "Add your description here"
+description = "Fully completed Machine learning Pipeline based on \"Bike Sharing Demand\" dataset."
+authors = [
+    { name = "Piotr Matusiewicz", email = "pmatusieiwcz@student.agh.edu.pl" }
+]
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
